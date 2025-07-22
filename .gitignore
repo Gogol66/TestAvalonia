@@ -1,0 +1,23 @@
+# Build and project files
+/bin/
+/obj/
+/.vs/
+/.vscode/
+/.idea/
+*.userprefs
+*.suo
+*.user
+*.cache
+*.pidb
+
+# NuGet packages
+*.nupkg
+/packages/
+
+# IDE files
+*.swp
+*.swo
+
+# Avalonia files
+/TestResults/
+/build/
